@@ -12,6 +12,7 @@ String manipulation played a crucial role in this project. I skillfully used var
 
 I also ensured the proper display of information by using the System.out.println() statement. By employing this standard output method, I effectively printed report titles and the contents of the ArrayList, ensuring clear and informative output for users.
 
+<h2> ArrayList: </h2>
 
 - <b>Python</b>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
