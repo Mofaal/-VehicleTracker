@@ -16,7 +16,7 @@ I also ensured the proper display of information by using the System.out.println
 
 The Java skills demonstrated in this program are:
 
-- #Use of ArrayList: The program creates an ArrayList called cars to store a list of vehicles. It demonstrates how to create an ArrayList, add elements to it, access elements using the index, and modify elements.
+- Use of ArrayList: The program creates an ArrayList called cars to store a list of vehicles. It demonstrates how to create an ArrayList, add elements to it, access elements using the index, and modify elements.
 
 - Looping: The program uses a for loop to iterate over the ArrayList and print each car. It initializes a loop variable (i) to iterate from 0 to the size of the ArrayList, and then accesses each element using the get() method.
 
