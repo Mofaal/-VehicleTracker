@@ -26,7 +26,7 @@ The Java skills demonstrated in this program are:
 
 - Variable Manipulation: The code increments the complaintCount variable each time a complaint is logged. This showcases skills related to manipulating variables and keeping track of counts or statistics.
 
-<h2>Program Walk-Through</h2>
+<h6>Program Walk-Through</h6>
 
 <p align="center">
 Prompt for product input.
