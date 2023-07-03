@@ -27,15 +27,4 @@ The Java skills demonstrated in this program are:
 - Enhanced for loop: The program also uses an enhanced for loop (for-each loop) to iterate over the ArrayList and print each car. This type of loop simplifies iterating over collections, such as ArrayLists, by automatically handling the index and providing direct access to each element.
 
 <h2>Program Walk-Through</h2>
-
-- <b>SQL database design and implementation Projects</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>Cybersecurity Projects</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-
-<h2>📺 Popular YouTube Videos</h2>
+https://imgur.com/cNiPnEw
