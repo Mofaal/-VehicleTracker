@@ -13,6 +13,7 @@ String manipulation played a crucial role in this project. I skillfully used var
 I also ensured the proper display of information by using the System.out.println() statement. By employing this standard output method, I effectively printed report titles and the contents of the ArrayList, ensuring clear and informative output for users.
 
 <h2> Java Skills Demonstrated: </h2>
+
 The Java skills demonstrated in this program are:
 
 Use of ArrayList: The program creates an ArrayList called cars to store a list of vehicles. It demonstrates how to create an ArrayList, add elements to it, access elements using the index, and modify elements.
@@ -25,7 +26,7 @@ Printing output: The program uses System.out.println() to print the report title
 
 Enhanced for loop: The program also uses an enhanced for loop (for-each loop) to iterate over the ArrayList and print each car. This type of loop simplifies iterating over collections, such as ArrayLists, by automatically handling the index and providing direct access to each element.
 
-- <b>Python</b>
+- <b1>Python</b1>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 - <b>SQL database design and implementation Projects</b>
