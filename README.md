@@ -20,7 +20,7 @@ The Java skills demonstrated in this program are:
 
 - Looping: The program uses a for loop to iterate over the ArrayList and print each car. It initializes a loop variable (i) to iterate from 0 to the size of the ArrayList, and then accesses each element using the get() method.
 
--ArrayList methods: The program uses various ArrayList methods, such as add(), indexOf(), and set(). These methods allow adding elements to the ArrayList, finding the index of an element, and replacing an element at a specific index, respectively.
+- ArrayList methods: The program uses various ArrayList methods, such as add(), indexOf(), and set(). These methods allow adding elements to the ArrayList, finding the index of an element, and replacing an element at a specific index, respectively.
 
 - Printing output: The program uses System.out.println() to print the report title and the cars in the ArrayList. It demonstrates the basic usage of printing output to the console.
 
