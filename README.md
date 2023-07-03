@@ -30,17 +30,17 @@ The Java skills demonstrated in this program are:
 <p align="center">
 Prompt for product input.
 <img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 <p align="center">
 Prompt for date input.
 <img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 <p align="center">
 Prompt for complaint input.
 <img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 <p align="center">
 Prompt for more complaints (Y/N).
