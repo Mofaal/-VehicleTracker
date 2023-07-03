@@ -28,5 +28,8 @@ The Java skills demonstrated in this program are:
 
 <h2>Program Walk-Through</h2>
 
-![Image description](https://imgur.com/cNiPnEw)
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
