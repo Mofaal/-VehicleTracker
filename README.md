@@ -27,4 +27,6 @@ The Java skills demonstrated in this program are:
 - Enhanced for loop: The program also uses an enhanced for loop (for-each loop) to iterate over the ArrayList and print each car. This type of loop simplifies iterating over collections, such as ArrayLists, by automatically handling the index and providing direct access to each element.
 
 <h2>Program Walk-Through</h2>
-https://imgur.com/cNiPnEw
+
+![Image description](https://imgur.com/cNiPnEw)
+
