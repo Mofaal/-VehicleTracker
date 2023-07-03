@@ -30,6 +30,6 @@ The Java skills demonstrated in this program are:
 
 <p align="center">
 Launch the utility: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/cNiPnEw)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src=https://i.imgur.com/62TgaWL.png(https://imgur.com/cNiPnEw)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
