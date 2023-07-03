@@ -12,7 +12,7 @@ String manipulation played a crucial role in this project. I skillfully used var
 
 I also ensured the proper display of information by using the System.out.println() statement. By employing this standard output method, I effectively printed report titles and the contents of the ArrayList, ensuring clear and informative output for users.
 
-<h2> Java Skills Demonstrated: </h2>
+<h1> Java Skills Demonstrated: </h1>
 
 The Java skills demonstrated in this program are:
 
@@ -26,7 +26,7 @@ The Java skills demonstrated in this program are:
 
 - Enhanced for loop: The program also uses an enhanced for loop (for-each loop) to iterate over the ArrayList and print each car. This type of loop simplifies iterating over collections, such as ArrayLists, by automatically handling the index and providing direct access to each element.
 
-- <h1>Python</h1>
+- <h2>Program Walk through"</h2>
 
 - <b>SQL database design and implementation Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
