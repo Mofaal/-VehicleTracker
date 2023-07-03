@@ -26,7 +26,7 @@ Printing output: The program uses System.out.println() to print the report title
 
 Enhanced for loop: The program also uses an enhanced for loop (for-each loop) to iterate over the ArrayList and print each car. This type of loop simplifies iterating over collections, such as ArrayLists, by automatically handling the index and providing direct access to each element.
 
-- <b1>Python</b1>
+- <h1>Python</b1>
   - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 - <b>SQL database design and implementation Projects</b>
