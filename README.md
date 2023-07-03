@@ -12,7 +12,7 @@ String manipulation played a crucial role in this project. I skillfully used var
 
 I also ensured the proper display of information by using the System.out.println() statement. By employing this standard output method, I effectively printed report titles and the contents of the ArrayList, ensuring clear and informative output for users.
 
-<h1> Java Skills Demonstrated: </h1>
+<h3> Java Skills Demonstrated: </h3>
 
 The Java skills demonstrated in this program are:
 
