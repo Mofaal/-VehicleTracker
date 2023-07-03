@@ -1,4 +1,4 @@
-# -VehicleTracker
+<h1>VehicleTracker</h1>
  I developed a vehicle tracking application in Java that effectively showcases my skills in key Java concepts and techniques
 <h2> Overview </h2>
 
@@ -26,8 +26,7 @@ Printing output: The program uses System.out.println() to print the report title
 
 Enhanced for loop: The program also uses an enhanced for loop (for-each loop) to iterate over the ArrayList and print each car. This type of loop simplifies iterating over collections, such as ArrayLists, by automatically handling the index and providing direct access to each element.
 
-- <h1>Python</b1>
-  - [Game Demos (Procedural Programming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <h1>Python</h1>
 
 - <b>SQL database design and implementation Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
