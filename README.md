@@ -37,3 +37,22 @@ Prompt for more complaints (Y/N).
 Print total complaints logged.
 <img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<p align="center">
+Prompt for more complaints (Y/N).
+<img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Print total complaints logged.
+<img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<p align="center">
+Prompt for more complaints (Y/N).
+<img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+<p align="center">
+Print total complaints logged.
+<img src="https://imgur.com/cNiPnEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
