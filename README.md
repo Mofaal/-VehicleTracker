@@ -1,5 +1,6 @@
-<h1>VehicleTracker</h1>
- I developed a vehicle tracking application in Java that effectively showcases my skills in key Java concepts and techniques
+<h1>My Java Learning/Beginner Projects</h1>
+
+Welcome to the showcase of my school learning journey in object-oriented Java programming! In this repository, I have compiled a collection of beginner-level projects that demonstrate my understanding of fundamental Java concepts and object-oriented principles. These projects were completed as part of my coursework during my time at The University of North Texas.
 <h2> Overview </h2>
 
 As a college student, I developed a vehicle tracking application in Java that effectively showcases my skills in key Java concepts and techniques. In this project, I utilized the following Java skills to implement the functionality:
